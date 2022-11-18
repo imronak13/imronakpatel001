@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @imronakpatel001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning Javascript and React.js
+- 📫 How to reach me:
+-  Instagram: @imronakpatel__
+-  twitter: @imRonakPatel__
 
 <!---
 imronakpatel001/imronakpatel001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
