@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @imronakpatel001
-- 👀 I’m interested in Front-end Development
+- 👀 I’m Self-taught Front-end Developer
 - 🌱 I’m currently learning Javascript and React.js
 - 📫 How to reach me:
 -  Instagram: @imronakpatel__
--  twitter: @imRonakPatel__
+-  twitter: @imronak__
 
 <!---
 imronakpatel001/imronakpatel001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
